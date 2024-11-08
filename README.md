@@ -24,8 +24,6 @@ Este proyecto requiere **Python 3** y las siguientes bibliotecas:
 - `scikit-learn`
 - `jupyterlab`
 
-Instálalas ejecutando:
-pip install pandas seaborn matplotlib scikit-learn jupyterlab
 
 
 
